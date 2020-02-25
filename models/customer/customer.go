@@ -1,8 +1,8 @@
 package customer
 
 import (
-	"gihub.com/fonces/go-db-connect/models"
-	"gihub.com/fonces/go-db-connect/utils"
+	"github.com/fonces/gin-rest/models"
+	"github.com/fonces/gin-rest/utils"
 	"github.com/jinzhu/gorm"
 )
 

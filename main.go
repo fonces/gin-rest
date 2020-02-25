@@ -1,8 +1,8 @@
 package main
 
 import (
-  "gihub.com/fonces/go-db-connect/controllers"
-  "gihub.com/fonces/go-db-connect/utils"
+  "github.com/fonces/gin-rest/controllers"
+  "github.com/fonces/gin-rest/utils"
   "github.com/gin-gonic/gin"
   "log"
   "net/http"

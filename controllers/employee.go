@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"gihub.com/fonces/go-db-connect/models/employee"
+	"github.com/fonces/gin-rest/models/employee"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
